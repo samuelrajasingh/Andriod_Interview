@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tough_ques">
+        <item>What is the importance of Android in the mobile market?</item>
+        <item>What do you think are some disadvantages of Android?</item>
+        <item>What is adb?</item>
+        <item> What are the four essential states of an activity?</item>
+        <item>What is ANR?</item>
+        <item>Which elements can occur only once and must be present?</item>
+        <item>How are escape characters used as attribute?</item>
+        <item>What is the importance of settings permissions in app development?</item>
+        <item> What is the function of an intent filter?</item>
+        <item> Enumerate the three key loops when monitoring an activity</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ques">
+        <item>What is android ?</item>
+        <item>What Is the Google Android SDK?</item>
+        <item>What is the Android Architecture?</item>
+        <item>Describe the Android Framework.</item>
+        <item> What is AAPT?</item>
+        <item>What is the importance of having an emulator within the Android environment?</item>
+        <item>What is the use of an activityCreator?</item>
+        <item>Describe Activities.</item>
+        <item>What are Intents?</item>
+        <item> Differentiate Activities from Services.</item>
+        <item>What items are important in every Android project?</item>
+        <item>What is the importance of XML-based layouts?</item>
+        <item>What are containers?</item>
+        <item>What is Orientation?</item>
+
+    </string-array>
+</resources>

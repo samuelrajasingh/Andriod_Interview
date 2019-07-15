@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tough_ans">
+        <item>Developers can write and register apps that will specifically run under the Android environment. This means that every mobile device that is Android enabled will be able to support and run these apps. With the growing popularity of Android mobile devices, developers can take advantage of this trend by creating and uploading their apps on the Android Market for distribution to anyone who wants to download it.</item>
+        <item>Given that Android is an open-source platform, and the fact that different Android operating systems have been released on different mobile devices, there is no clear cut policy to how applications can adapt with various OS versions and upgrades. One app that runs on this particular version of Android OS may or may not run on another version. Another disadvantage is that since mobile devices such as phones and tabs come in different sizes and forms, it poses a challenge for developers to create apps that can adjust correctly to the right screen size and other varying features and specs.</item>
+        <item>Adb is short for Android Debug Bridge. It allows developers the power to execute remote shell commands. Its basic function is to allow and control communication towards and from the emulator port.</item>
+        <item>1)Active – if the activity is at the foreground \n2)Paused – if the activity is at the background and still visible \n3)Stopped – if the activity is not visible and therefore is hidden or obscured by another activity \n4)Destroyed – when the activity process is killed or completed terminated</item>
+        <item>ANR is short for Application Not Responding. This is actually a dialog that appears to the user whenever an application have been unresponsive for a long period of time.</item>
+        <item>Among the different elements, the and elements must be present and can occur only once. The rest are optional, and can occur as many times as needed.</item>
+        <item>Escape characters are preceded by double backslashes. For example, a newline character is created using \\n</item>
+        <item>Permissions allow certain restrictions to be imposed primarily to protect data and code. Without these, codes could be compromised, resulting to defects in functionality.</item>
+        <item>Because every component needs to indicate which intents they can respond to, intent filters are used to filter out intents that these components are willing to receive. One or more intent filters are possible, depending on the services and activities that is going to make use of it.</item>
+        <item>1)Entire lifetime –activity happens between onCreate and onDestroy   \n2)Visible lifetime – activity happens between onStart and onStop \n3) Foreground lifetime – activity happens between onResume and onPause.</item>
+    </string-array>
+</resources>

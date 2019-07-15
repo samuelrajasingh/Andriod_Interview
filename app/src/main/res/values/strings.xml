@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Android Interview</string>
+    <string name="simple_question">Simple Question</string>
+    <string name="tough_question">Tough Question</string>
+    <string name="other_apps">See our Other Apps</string>
+    <string name="rate">Rate Our App</string>
+    <string name="question">Question :</string>
+    <string name="answer">Answer :</string>
+    <string name="xx_yy">XX / YY</string>
+    <string name="xx">XX</string>
+    <string name="yy">YY</string>
+    <string name="press_for_ans">Press A for answer</string>
+    <string name="key">Press A for answer</string>
+    <string name="crack_q">Crack Interviews</string>
+
+</resources>
+
+

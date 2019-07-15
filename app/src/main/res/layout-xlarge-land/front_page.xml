@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/front_page_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/front_background">
+
+    <Button
+        android:id="@+id/b-sp"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/custom_button"
+        android:outlineAmbientShadowColor="@color/black"
+        android:text="@string/simple_question"
+        android:textAlignment="gravity"
+        android:textSize="28sp"
+        />
+
+    <Button
+        android:id="@+id/b-tq"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_below="@id/b-sp"
+        android:layout_alignTop="@id/b-sp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/custom_button"
+        android:outlineAmbientShadowColor="@color/black"
+        android:text="@string/tough_question"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/b-oa"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_below="@id/b-tq"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/custom_button"
+        android:text="@string/other_apps"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/b-rate"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_below="@id/b-oa"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/custom_button"
+        android:text="@string/rate"
+        android:textSize="28sp" />
+
+
+</RelativeLayout>
